@@ -21,7 +21,7 @@ Pullis is a self-hosted service that delivers GitHub PR notifications to Slack c
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/pullis.git
+   git clone https://github.com/davidsmeringe/pullis.git
    cd pullis
    ```
 
